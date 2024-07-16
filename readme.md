@@ -1,6 +1,6 @@
-# mks-Bauteil
+# Schalter
 
-![Bauteil](./bauteil.png)
+![Bauteil](https://makeyourschool.de/wp-content/uploads/2018/10/61_schalter-1024x1024.jpg)
 <!-- TODO: CONTENT change image -->
 <!-- TODO: ARCHITECTURE multiple images? -->
 <!-- do we need multiple images per part?-->
